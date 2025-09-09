@@ -1,16 +1,44 @@
-## Hi there 👋
 
-<!--
-**Tiaanggp/Tiaanggp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Tia Anggi Pratiwi 👋
 
-Here are some ideas to get you started:
+🎓 Graduate Student of Informatics at Universitas Amikom Yogyakarta  
+💻 IT Supervisor @ PT Naisha Inspirasi Muslimah  
+🌱 Currently learning: Artificial Intelligence & Machine Learning  
+📌 Interested in: Computer Security, Deep Learning (CNN), E-Commerce System Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+- **Languages**: Python, PHP, SQL  
+- **Frameworks**: Laravel, TensorFlow, Keras  
+- **Tools**: Git, BigQuery, Canva  
+- **Others**: QA Testing, Data Analysis, System Security
+
+---
+
+## 📂 Featured Projects
+🔹 [CNN Skin Disease Classification](https://github.com/Tiaanggp/cnn-skin-disease-classification-2025)  
+Classifying facial skin diseases using Convolutional Neural Networks (CNN).
+
+🔹 [Rock-Paper-Scissors CNN](https://github.com/Tiaanggp/rock-paper-scissors-cnn)  
+Image classification project for Rock-Paper-Scissors using CNN.
+
+🔹 [Tugas Enkripsi](https://github.com/Tiaanggp/tugas_enkripsi)  
+A simple encryption project for academic purposes.
+
+---
+
+## 📊 GitHub Stats
+![Tia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiaanggp&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: [www.linkedin.com/in/tia-anggi-pratiwi-269261172
+](www.linkedin.com/in/tia-anggi-pratiwi-269261172
+)  
+- Email: tiaangi.p02@gmail.com  
+
+✨ *Always eager to learn and share knowledge about tech & innovation.*  
+
+
